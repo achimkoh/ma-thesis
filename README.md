@@ -1,1 +1,1 @@
-# ma-thesis
+hypothesis: Magenta and the surrounding increase of discourse about art and AI are symptomatic of a larger and multilayered phenomenon, which is that Google—as the complex and network entity that it is—wants to **be** culture / aspires to **being** culture.
